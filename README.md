@@ -31,3 +31,11 @@ Phys 11x is our General Physics sequence. Precalculus I: Algebra is the math pre
 * I receive far more pushback from students who want me to "just tell them what to do" than in the Engineering Physics classes.
 * Since calculus is not a requirement for the class, I do not have the students use propagation of error in their analysis; instead I emphasize using large data sets and simple statistical analysis
 
+# Copyright and license info
+
+![CC-BY-NC-SA icon][icon]
+
+All contents are copyright 2019 Dan Roth, and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[icon]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+
