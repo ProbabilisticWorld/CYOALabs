@@ -2,7 +2,9 @@
 
 Instead of the prescriptive traditional "cookbook" labs for introductory physics, I use multi-week projects that I call "choose your own adventure" labs. The students are given a very simple prompt (e.g. "Determine a mathematical relationship between the amplitude and period of a pendulum") and design their own experiment. The students have multiple weeks to work through the experimental process including taking preliminary data, identifying sources of error, and refining the experiment.
 
+
 ## What will you find here?
+**Click the [View on GitHub](https://github.com/ProbabilisticWorld/CYOALabs) link to access all the material I refer to here.**
 
 * Handouts that I give to the students for each project
 * Handouts I give to the students that covers how they'll consider experimental uncertainty in my classes

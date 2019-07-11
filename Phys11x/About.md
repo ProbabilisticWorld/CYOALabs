@@ -1,7 +1,7 @@
 # About the labs in this folder
 
 ## Week 1: Fun with physics
-This is a one-day exploration of different physics principles that students encounter throughout this course.
+This is a one-day exploration of different physics principles that students encounter throughout this course. Information about the "Mystery Tube" can be found in the paper [*Modeling the Nature of Science with the Mystery Tube*, Scott Miller, The Physics Teacher **52**, 548 (2014)](https://doi.org/10.1119/1.4902200).
 
 ## Weeks 2 & 3: Using density to learn about statistics
 
