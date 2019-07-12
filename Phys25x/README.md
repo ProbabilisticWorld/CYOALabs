@@ -1,6 +1,6 @@
 # About the labs in this folder
 
-## Phys 254
+## [Phys 254][Phys254]
 ### Project 1: Using density to learn about statistics
 Lab for the first two weeks is be more structured than the rest of the quarter. The first week is spent developing a couple of simple experiments and collecting data. I collect each group's results from the first part of the lab before we meet the second week. I compile this to be used in the second part of the project (Statistics).
 
@@ -14,7 +14,7 @@ This is like a standard Atwood lab, but I let the students figure out how to car
 ### Project 4: Coefficient of restitution
 The students determine the coefficient of restitution of dynamics carts. I give them two weeks.
 
-## Phys 255
+## [Phys 255][Phys255]
 ### Week 1: Charge
 This is a one-day exploration of charge; it is similar in spirit to the "Fun with Physics" lab found in the Phys 11x folder.
 
@@ -36,7 +36,7 @@ We have large boards (two boards take up nearly an entire lab table) with bar ma
 ### Weeks 9 & 10: Homopolar motor 
 The students construct and investigate a simple homopolar motor.
 
-## Phys 256
+## [Phys 256][Phys256]
 ### Project 1: Practice with uncertainty, propagation of error, and significant figures
 This is a single-day activity, designed as a refresher.
 
@@ -51,3 +51,7 @@ The students have two weeks to measure the wavelength of a HeNe laser. Some stud
 
 ## Uncertainty
 This is a short handout I give the students that covers uncertainty and how I want them to use it in these labs.
+
+[Phys254]: Phys254
+[Phys255]: Phys255
+[Phys256]: Phys256
