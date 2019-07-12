@@ -21,7 +21,7 @@ Phys 25x is our Engineering Physics sequence. Calculus III is the math prerequis
   * The topics of this course have not lent themselves well to CYOA labs, so I use a mix of one-day activities and multi-day projects
 * Engineering Physics III (Phys 256) is a grab-bag of fluids, thermodynamics, optics, sound, waves, and selected topics from modern physics (time-permitting)
 
-### General Physics
+### [General Physics](Phys11x)
 Phys 11x is our General Physics sequence. Precalculus I: Algebra is the math prerequisite for General Physics I.
 
 * I'm still working on applying CYOA labs to the general physics sequence; I have only made these for General Physics I (Phys 114)
