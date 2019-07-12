@@ -13,7 +13,7 @@ Instead of the prescriptive traditional "cookbook" labs for introductory physics
 * My poster from the AAPT Summer 2019 meeting
 
 ## About the courses
-### Engineering Physics
+### [Engineering Physics](Phys25x)
 Phys 25x is our Engineering Physics sequence. Calculus III is the math prerequisite for Engineering Physics I.
 
 * Engineering Physics I (Phys 254) is a basic mechanics course
