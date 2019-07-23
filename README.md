@@ -2,7 +2,6 @@
 
 Instead of the prescriptive traditional "cookbook" labs for introductory physics, I use multi-week projects that I call "choose your own adventure" labs. The students are given a very simple prompt (e.g. "Determine a mathematical relationship between the amplitude and period of a pendulum") and design their own experiment. The students have multiple weeks to work through the experimental process including taking preliminary data, identifying sources of error, and refining the experiment.
 
-
 ## What will you find here?
 **Click the [View on GitHub](https://github.com/ProbabilisticWorld/CYOALabs) link to access all the material I refer to here.**
 
@@ -31,6 +30,11 @@ Phys 11x is our General Physics sequence. Precalculus I: Algebra is the math pre
 * I receive far more pushback from students who want me to "just tell them what to do" than in the Engineering Physics classes.
 * Since calculus is not a requirement for the class, I do not have the students use propagation of error in their analysis; instead I emphasize using large data sets and simple statistical analysis
 
+---
+# Contact info
+Email: [droth@olympic.edu](mailto:droth@olympic.edu)
+
+---
 # Copyright and license info
 
 ![CC-BY-NC-SA icon][icon]
