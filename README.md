@@ -31,7 +31,7 @@ Phys 11x is our General Physics sequence. Precalculus I: Algebra is the math pre
 * Since calculus is not a requirement for the class, I do not have the students use propagation of error in their analysis; instead I emphasize using large data sets and simple statistical analysis
 
 ---
-# Contact info
+# Contact me
 Email: [droth@olympic.edu](mailto:droth@olympic.edu)
 
 ---
