@@ -18,9 +18,5 @@ This is a single-day activity that is more of a "verification" lab. The students
 
 Students determine the coefficient of restitutuion of two colliding dynamics carts.
 
-## Week 10: Equilibrium
-
-This is a straightforward traditional lab; I have not included my handout in this folder
-
 # Uncertainty
 This is a short handout I give to the students that covers how I want them to work with uncertainty and significant figures
