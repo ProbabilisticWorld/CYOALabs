@@ -32,7 +32,32 @@ Phys 11x is our General Physics sequence. Precalculus I: Algebra is the math pre
 
 ---
 # Contact me
+Questions? Comments? Please get in touch; I really like talking about this stuff.
+
+If you used any of these resources, I'd love to hear about it. How did you use them? What did you change? How did it work out?
+
 Email: [droth@olympic.edu](mailto:droth@olympic.edu)
+
+---
+# References
+Here is a list of articles that have informed why and how I have developed these labs.
+
+* The article that really gave me the push I needed: [Introductory physics labs: We can do better][holmes_introductory_2018], Physics Today **71**, 1, 38 (2018)
+
+* AAPT lab guidelines: [Goals of the Introductory Physics Laboratory][american_association_of_physics_teachers_goals_1998], American Journal of Physics **66**, 483 (1998)
+
+* Other useful and interesting papers, organized by publication date
+  * [Measuring the impact of an instructional laboratory on the learning of introductory physics][wieman_measuring_2015], American Journal of Physics **83**, 972 (2015)
+
+  * [Quantitative Comparisons to Promote Inquiry in the Introductory Physics Lab][holmes_quantitative_2015] The Physics Teacher **53**, 352 (2015)
+
+  * [From cookbooks to single sentences: The evolution of my labs][morrison_cookbooks_2014] The Physics Teacher **52**, 505 (2014)
+
+  * [Role of Experiments in Physics Instruction--A Process Approach][etkina_role_2002] The Physics Teacher **40**, 351 (2002)
+
+  * [Guiding insight and inquiry in the introductory physics laboratory][arons_guiding_1993], The Physics Teacher **31**, 278 (1993)
+
+  * [Achievement of Physics Students With and Without Laboratory Work][kruglak_achievement_1953] American Journal of Physics **21**, 14 (1953)
 
 ---
 # Copyright and license info
@@ -44,3 +69,11 @@ All contents are copyright 2019 Dan Roth, and are licensed under a [Creative Com
 [icon]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 [Phys25x]: https://github.com/ProbabilisticWorld/CYOALabs/tree/master/Phys25x
 [Phys11x]: https://github.com/ProbabilisticWorld/CYOALabs/tree/master/Phys11x
+[holmes_introductory_2018]: https://doi.org/10.1063/PT.3.3816
+[american_association_of_physics_teachers_goals_1998]: https://doi.org/10.1119/1.19042
+[wieman_measuring_2015]: https://doi.org/10.1119/1.4931717
+[holmes_quantitative_2015]: https://doi.org/10.1119/1.4928350
+[arons_guiding_1993]: https://doi.org/10.1119/1.2343763
+[morrison_cookbooks_2014]: https://doi.org/10.1119/1.4897597
+[etkina_role_2002]: https://doi.org/10.1119/1.1511592
+[kruglak_achievement_1953]: https://doi.org/10.1119/1.1933337
